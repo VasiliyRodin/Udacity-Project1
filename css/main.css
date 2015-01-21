@@ -1,0 +1,54 @@
+body {
+    font-family: 'Verdana', sans-serif;
+}
+
+.header{
+    color: #666666;
+    margin-top: 25px;
+}
+.title{
+    font-size: 350%;
+    
+}
+
+.subtitle {
+    
+    color: #F07C17;
+    font-size: 170%;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.content {
+    color: #666666;    
+    font-size: 115%;
+    line-height: 200%;
+}
+.image {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    height:auto; 
+    width:auto;
+}
+
+.list {
+    border: 1px solid #CCCCCC;
+
+}
+.listHeader {
+    color: #F07C17;    
+    margin-top: 30px;
+    margin-left: 32px;
+    font-size: 170%;
+    font-weight: bold;
+}
+
+.listContent {
+    font-size: 115%;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    line-height: 200%;
+    
+}
+  
