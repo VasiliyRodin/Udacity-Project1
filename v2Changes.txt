@@ -1,0 +1,5 @@
+Deleted extra white space.
+Deleted overlay of sample photo.
+Fixed color capitalization.
+Ran through HTML and CSS Validator and got successfully checked.
+Ran through Project Coding Area and got 3.33%
